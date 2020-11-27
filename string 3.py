@@ -1,0 +1,10 @@
+a=str(input('primul cuvant e: '))
+b=str(input('al doilea cuvant e: '))
+d=str(input('al treilea cuvant e: '))
+c=str(input('al patrulea cuvant e: '))
+s=a+" "+b+" "+d+" "+c+"."
+print('primul cuvant citit e: ',a)
+print('al doilea cuvant citit e: ',b)
+print('al treilea cuvant citit e: ',d)
+print('al patrulea cuvant citit e: ',c)
+print('fraza e: ',s)
